@@ -17,4 +17,15 @@
    ![image](https://user-images.githubusercontent.com/44914731/126049625-7b97c716-6ced-4dba-b8fa-fafe9e9f18a8.png)
 
 
+### Summery
+ 
+    Based on the results, I can draw followings three business recommendations to the CEO.
+    
+    1.Plan special promotions for both Drivers and Riders to improve the supply and demand balance of ride based on the trend we                                           see in the multiple-line chart.
+    
+    2.Decrease the number of drivers in Urban area to avoid cannibalizing its demand amont other drivers.
+    
+    
+    3.Increase the number of drivers in Rural area to cover the missing opportunity in potential riders.
+
      
