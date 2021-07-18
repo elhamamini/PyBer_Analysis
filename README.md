@@ -1,4 +1,6 @@
 
+
+
 # PyBer_Analysis
 
 ## Overview of Project
@@ -15,7 +17,7 @@
    [Summary DataFrame Image](https://github.com/elhamamini/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
     
    ![image](https://user-images.githubusercontent.com/44914731/126049625-7b97c716-6ced-4dba-b8fa-fafe9e9f18a8.png)
-
+   ![PyBer_Data_Summery](https://user-images.githubusercontent.com/44914731/126083436-4c0547fe-8351-4f4f-ba13-836d340eb0ae.png)
 
 ### Summery
  
